@@ -6,19 +6,9 @@
     <description>Recent content on Well Come to Pointsmake&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Jul 2020 22:43:38 +0800</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Hello_world</title>
-      <link>http://localhost:1313/post/hello_world/</link>
-      <pubDate>Wed, 29 Jul 2020 22:43:38 +0800</pubDate>
-      
-      <guid>http://localhost:1313/post/hello_world/</guid>
-      <description>Header 1 Header 2 一些正文，要记得正文前面不能加TAB（或者说四个空格），不然的话会单独成文本块。 Header 3 Header 4 Header 5 Header 6 italics *literal asrerisks* bold Line 1 2 3 4 5 This is a content block. List : 1.</description>
-    </item>
     
   </channel>
 </rss>
