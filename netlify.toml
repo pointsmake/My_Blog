@@ -1,5 +1,5 @@
 [context.branch-deploy.environment]
 HUGO_VERSION = "0.74.3"
 
-[context.next.environment]
-HUGO_ENABLEGITINFO = "true"
+[context.deploy-preview.environment]
+  HUGO_VERSION = "0.74.3"
