@@ -1,9 +1,9 @@
 ---
 title: "Hello_world"
 date: 2020-07-29T22:43:38+08:00
-draft: true
-type: post
+draft: false
 ---
+
 
 # Header 1
 
